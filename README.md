@@ -1,5 +1,5 @@
-# Astrocytic-Plasticity
-A paper list of Astrocytic Plasticity.
+# Plasticity-and-Modeling
+A paper list of plasticity and modeling.
 
 ## Papers
 * Central amygdala astrocyte plasticity underlies GABAergic dysregulation in ethanol dependence (**Translational Psychiatry 2025**)
