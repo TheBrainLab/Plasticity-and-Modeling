@@ -1,7 +1,7 @@
 # Plasticity-and-Modeling
 A paper list of plasticity and modeling.
 
-## Plasticity Papers
+## Astrocytic Plasticity Papers
 * Central amygdala astrocyte plasticity underlies GABAergic dysregulation in ethanol dependence (**Translational Psychiatry 2025**)
 * Injury-specific factors in the cerebrospinal fluid regulate astrocyte plasticity in the human brain (**Nature Medicine 2023**)
 * Astrocyte plasticity in mice ensures continued endfoot coverage of cerebral blood vessels following injury and declines with age (**Nature Communications 2022**)
